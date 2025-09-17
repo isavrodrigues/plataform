@@ -2,7 +2,7 @@ site_name: Plataformas, Microsserviços e APIs
 site_author: Isabela Rodrigues
 site_url:  
 repo_url: https://github.com/isavrodrigues/plataform
-repo_name: plataform
+repo_name: github/plataform
 
 theme:
   name: material
