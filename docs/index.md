@@ -24,11 +24,11 @@
 
 ## Entregas
 
-- [x] Roteiro 1 - Data 23/02/2025
-- [ ] Roteiro 2
-- [ ] Roteiro 3
-- [ ] Roteiro 4
-- [ ] Projeto
+- [ ] Roteiro 1 - Data 24/10/2025
+- [ ] Roteiro 2 - Data 24/10/2025
+- [ ] Roteiro 3 - Data 24/10/2025
+- [ ] Roteiro 4 - Data 24/10/2025
+- [ ] Projeto - 
 
 ## Diagramas
 
