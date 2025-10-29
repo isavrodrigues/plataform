@@ -143,9 +143,10 @@ nav:
   - Home: index.md
   - This documentation: ./thisdocumentation/main.md
   - Roteiros:
-    - Roteiro 1: ./roteiro1/main.md
-    - Roteiro 2: ./roteiro2/main.md
-    - Roteiro 3: ./roteiro3/main.md
-    - Roteiro 4: ./roteiro4/main.md
+    - Product API: ./productapi/main.md
+    - Order API: ./orderapi/main.md
+    - Exchange API: ./exchangeapi/main.md
+    - Jenkins: ./jenkins/main.md
+    - K8s: ./k8s/main.md
     - Notebook 1: ./notebook1/ex1_data.ipynb
   - Projeto: ./projeto/main.md

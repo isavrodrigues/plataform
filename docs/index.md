@@ -8,12 +8,10 @@
 
 ## Grupo/Kit X
 
-1. João da Silva
-1. Pedro de Souza
-1. Maria Oliveira
-1. Grupo K
-    - João da Silva
-    - Pedro de Souza
+1. Isabela Vieira
+1. Deena
+1. Lagoa
+
 
 
 
@@ -24,10 +22,10 @@
 
 ## Entregas
 
-- [ ] Roteiro 1 - Data 24/10/2025
-- [ ] Roteiro 2 - Data 24/10/2025
-- [ ] Roteiro 3 - Data 24/10/2025
-- [ ] Roteiro 4 - Data 24/10/2025
+- [x] Roteiro 1 - Data 24/10/2025
+- [x] Roteiro 2 - Data 24/10/2025
+- [x] Roteiro 3 - Data 24/10/2025
+- [x] Roteiro 4 - Data 24/10/2025
 - [ ] Projeto - 
 
 ## Diagramas
